@@ -1,6 +1,6 @@
 root = true
 
-[*.{py,c,cpp,h,js,rst,md,yml}]
+[*.{py,c,cpp,h,js,rst,md,yml,latino,andy,exe,confi}]
 trim_trailing_whitespace = true
 insert_final_newline = true
 indent_style = space
